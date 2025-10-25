@@ -100,26 +100,6 @@ The website uses CSS custom properties for easy theming:
   --text-main: #1f2937;
   --bg-primary: #ffffff;
 }
-```
-
-### Adding Projects
-To add new projects, update the projects section in `modern.html`:
-```html
-<article class="project-card">
-  <div class="project-content">
-    <h3>Your Project Name</h3>
-    <p class="project-description">Project description...</p>
-    <div class="project-tech">
-      <span class="tech-tag">Technology</span>
-    </div>
-    <div class="project-links">
-      <a href="#" class="project-link">
-        <i class="fab fa-github"></i> Source Code
-      </a>
-    </div>
-  </div>
-</article>
-```
 
 ## 📧 Contact Form Setup
 
@@ -131,26 +111,5 @@ The contact form uses Formspree for backend processing:
    ```html
    <form action="https://formspree.io/f/YOUR_FORM_ID" method="POST">
    ```
-
-## 🌐 Live Demo
-
-Visit the live website: [Your Portfolio URL]
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/sanathkmr14/SanathKumar-Porfolio/issues).
-
-## 📞 Contact
-
-**Sanath Kumar**
-- Email: [your.email@example.com](mailto:your.email@example.com)
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- GitHub: [@sanathkmr14](https://github.com/sanathkmr14)
-
----
-
+   
 ⭐ If you found this project helpful, please give it a star!

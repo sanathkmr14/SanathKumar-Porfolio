@@ -15,7 +15,8 @@ A modern, responsive portfolio website showcasing my skills, projects, and profe
 
 ## 🛠️ Technologies Used
 
-- **HTML5**: Semantic markup and structure
+- **HTML5**: Sem
+semantic markup and structure
 - **CSS3**: Modern styling with CSS Grid and Flexbox
 - **JavaScript**: Interactive functionality and theme switching
 - **Font Awesome**: Icons for social media and UI elements

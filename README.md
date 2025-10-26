@@ -25,9 +25,9 @@ A modern, responsive portfolio website showcasing my skills, projects, and profe
 
 ```
 Portfolio/
-├── modern.html          # Main portfolio page
+├── index.html          # Main portfolio page
 ├── css/
-│   ├── modern.css      # Main stylesheet
+│   ├── index.css      # Main stylesheet
 │   ├── projects.css    # Project cards styling
 │   └── skills.css      # Skills section styling
 ├── js/
